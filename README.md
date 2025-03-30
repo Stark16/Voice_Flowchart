@@ -7,7 +7,8 @@ This prototype enables users to create **flowcharts** using **hand gestures** an
 🔹 **Voice Commands** – Switch between shapes, modify colors, and add text effortlessly.  
 🔹 **Seamless Integration** – Combines **Mediapipe** for gesture recognition and **Azure Voice-to-Text (VTT)** for speech processing.  
 
-![image](https://github.com/user-attachments/assets/f2fffc7d-f020-4f42-a878-dcf2f24b3dc8)
+![image](https://github.com/user-attachments/assets/3c466421-a996-4f2e-b113-acbae8b873d8)
+
 
 
 ---
