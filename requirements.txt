@@ -1,0 +1,6 @@
+mediapipe
+tensorflow
+opencv-python
+tqdm
+fastapi
+azure-cognitiveservices-speech
