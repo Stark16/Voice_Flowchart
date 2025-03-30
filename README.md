@@ -7,6 +7,9 @@ This prototype enables users to create **flowcharts** using **hand gestures** an
 🔹 **Voice Commands** – Switch between shapes, modify colors, and add text effortlessly.  
 🔹 **Seamless Integration** – Combines **Mediapipe** for gesture recognition and **Azure Voice-to-Text (VTT)** for speech processing.  
 
+![image](https://github.com/user-attachments/assets/f2fffc7d-f020-4f42-a878-dcf2f24b3dc8)
+
+
 ---
 
 ## 🚀 **Features**  
@@ -28,8 +31,8 @@ This prototype enables users to create **flowcharts** using **hand gestures** an
 
 1️⃣ **Clone this repository:**  
 ```bash
-git clone https://github.com/your-repo/gesture-voice-flowchart.git
-cd gesture-voice-flowchart
+git clone https://github.com/Stark16/Voice_Flowchart
+cd Voice_Flowchart
 ```
   
 2️⃣ **Install dependencies:**  
